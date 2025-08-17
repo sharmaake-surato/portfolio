@@ -31,7 +31,7 @@ const projects = [
         description: "A fully responsive e-commerce platform with cart functionality and payment integration.",
         technologies: ["HTML", "CSS", "JavaScript", "React"],
         image: "pic.jpeg",
-        liveLink: "",
+        liveLink: "https://sharmaake-surato.github.io/news/",
         codeLink: "#"
     },
     {
