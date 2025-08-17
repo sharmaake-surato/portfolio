@@ -30,24 +30,24 @@ const projects = [
         title: "news",
         description: "A fully responsive e-commerce platform with cart functionality and payment integration.",
         technologies: ["HTML", "CSS", "JavaScript", "React"],
-        image: "pic.jpeg",
+        image: "news.jpg",
         liveLink: "https://sharmaake-surato.github.io/news/",
-        codeLink: "#"
+        codeLink: "https://sharmaake-surato.github.io/news/"
     },
     {
         title: "navigation",
         description: "navigatiion",
         technologies: ["HTML", "CSS", "JavaScript"],
-        image: "pic.jpeg",
+        image: "nav.webp",
         liveLink: "https://sharmaake-surato.github.io/navigation/",
-        codeLink: "#"
+        codeLink: "https://sharmaake-surato.github.io/navigation/"
     },
     {
         title: "Weather Application,",
         description: "Real-time weather information with 5-day forecast using weather API.",
         technologies: ["JavaScript", "API Integration"],
         image: "we.jpg",
-        liveLink: "#",
+        liveLink: "https://sharmaake-surato.github.io/sharmake/",
         codeLink: "https://sharmaake-surato.github.io/sharmake/"
     }
 ];
