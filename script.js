@@ -39,7 +39,7 @@ const projects = [
         description: "A productivity app to help users organize their tasks and increase efficiency.",
         technologies: ["React", "Node.js", "MongoDB"],
         image: "pic.jpeg",
-        liveLink: "#",
+        liveLink: "https://sharmaake-surato.github.io/navigation/",
         codeLink: "#"
     },
     {
