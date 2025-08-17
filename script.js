@@ -27,7 +27,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // Project Data
 const projects = [
     {
-        title: "E-commerce Website",
+        title: "news",
         description: "A fully responsive e-commerce platform with cart functionality and payment integration.",
         technologies: ["HTML", "CSS", "JavaScript", "React"],
         image: "pic.jpeg",
