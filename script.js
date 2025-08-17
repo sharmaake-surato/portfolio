@@ -28,7 +28,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 const projects = [
     {
         title: "news",
-        description: "A fully responsive e-commerce platform with cart functionality and payment integration.",
+        description: "kalasoco warar sugan oo ku xiiso galiyan.",
         technologies: ["HTML", "CSS", "JavaScript", "React"],
         image: "news.jpg",
         liveLink: "https://sharmaake-surato.github.io/news/",
