@@ -35,7 +35,7 @@ const projects = [
         codeLink: "#"
     },
     {
-        title: "Task Management App",
+        title: "navigation",
         description: "A productivity app to help users organize their tasks and increase efficiency.",
         technologies: ["React", "Node.js", "MongoDB"],
         image: "pic.jpeg",
